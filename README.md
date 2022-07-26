@@ -20,7 +20,7 @@ The dataset contains information on all plane crashes from 1908 till 2009. It ha
 - Blank Cells: Filled in all blanks with “Unknown”
 - The location columns contained Cities, States, Countries, Islands. I only needed the countries, so I got it extracted using split to column and checked for their validity using python in Jupyter notebook.
 - The Summary did not give a precise information as to what caused the aircrashes. I had to extract causes using keywords and categorize them into clusters.
-  - The causes were categorized into Nine namely;
+  - The causes were categorized into Ten namely;
     - Overshot Runway: To fly or taxi beyond the runway during takeoff or landing.
     - Weather Condition: Crashes caused by terrible weather such as snowstorms and rainstorms.
     - Mechanical Failure: Malfunction of an airplane component
