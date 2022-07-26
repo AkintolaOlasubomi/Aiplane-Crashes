@@ -31,3 +31,6 @@ The dataset contains information on all plane crashes from 1908 till 2009. It ha
     - Fuel Exhaustion: Low fuel leading to crashes
     - Collision: Colliding with other planes 
     - Unknown Causes
+   
+   <a href=https://github.com/AkintolaOlasubomi/Aiplane-Crashes/blob/main/Airplane_Crash.pdf>View the report summary here.</a>
+    
